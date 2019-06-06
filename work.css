@@ -43,6 +43,10 @@
     display: inline;
     width: 100%;
     background-color:rgba(255, 255, 255, 0.7);
-    padding: 100px auto;
-    margin: 100px auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 40px auto;
+
 }
