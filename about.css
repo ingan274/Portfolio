@@ -54,16 +54,10 @@
 
 }
 
-#contitle {
-    padding-top: 30px;
-    padding-bottom: 30px;
-
-}
-
 .social {
     display: inline-block;s
     width: 40px;
     height: 40px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 60px;
 }

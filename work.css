@@ -1,0 +1,48 @@
+
+.work1 {
+    background: url(robert-zunikoff-53898-unsplash.jpg);
+    height: 600px;
+    background-size: 100%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+
+.work2 {
+    background: url(brendan-miranda-652484-unsplash.jpg);
+    height: 600px;
+    background-size: 100%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work3 {
+    background: url(zach-lucero-802489-unsplash.jpg);
+    height: 600px;
+    background-size: 100%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work4 {
+    background: url(aleks-dorohovich-1089460-unsplash.jpg);
+    height: 600px;
+    background-size: 100%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+
+.work5 {
+    background: url(marcus-wallis-607534-unsplash.jpg);
+    height: 600px;
+    background-size: 100%;
+    line-height: 1.4;
+    padding: 120px 50px 50px 50px;
+}
+.worktitle {
+    display: inline;
+    width: 100%;
+    background-color:rgba(255, 255, 255, 0.7);
+    padding: 100px auto;
+    margin: 100px auto;
+}
