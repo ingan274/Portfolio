@@ -6,7 +6,7 @@
 
 /* Work */
 .work1 {
-    background: url(robert-zunikoff-53898-unsplash.jpg);
+    background: url(work-image/robert-zunikoff-53898-unsplash.jpg);
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
@@ -15,7 +15,7 @@
 
 
 .work2 {
-    background: url(brendan-miranda-652484-unsplash.jpg);
+    background: url(work-image/brendan-miranda-652484-unsplash.jpg);
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
@@ -23,7 +23,7 @@
 }
 
 .work3 {
-    background: url(zach-lucero-802489-unsplash.jpg);
+    background: url(work-image/zach-lucero-802489-unsplash.jpg);
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
@@ -31,7 +31,7 @@
 }
 
 .work4 {
-    background: url(aleks-dorohovich-1089460-unsplash.jpg);
+    background: url(work-image/aleks-dorohovich-1089460-unsplash.jpg);
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
@@ -39,7 +39,7 @@
 }
 
 .work5 {
-    background: url(marcus-wallis-607534-unsplash.jpg);
+    background: url(work-image/marcus-wallis-607534-unsplash.jpg);
     height: 600px;
     background-size: 100%;
     line-height: 1.4;
