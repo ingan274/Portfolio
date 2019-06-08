@@ -115,7 +115,6 @@ p {
   
 }
 
-
 /* Logo */
 #logo {
     width: 80px;
@@ -136,6 +135,10 @@ p {
     padding: 10px;
     margin-right: 10px;
     margin-left: 10px;
+}
+
+.menu:hover{
+    color: #003E51;
 }
 
 /* Content Title */
@@ -174,4 +177,5 @@ p {
 .footbody {
     text-align: right;
     padding-right: 50px;
+   
 }

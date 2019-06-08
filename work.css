@@ -1,4 +1,10 @@
+/* Navigation */
+#work {
+    color: #D9E1E2;
+    text-decoration: underline;
+}
 
+/* Work */
 .work1 {
     background: url(robert-zunikoff-53898-unsplash.jpg);
     height: 600px;
