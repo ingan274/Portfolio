@@ -10,6 +10,10 @@
     font-weight: 700;
 }
 
+.headtitle {
+    font-size: 45pt;
+}
+
 /* FORM */
 
 .contact-form {
@@ -28,6 +32,7 @@
     padding: 10px;
     background: transparent;
     border: none;
+    
     border-bottom: 1px, #505759;
 
 

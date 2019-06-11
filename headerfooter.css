@@ -44,7 +44,7 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     color: #D9E1E2;
     font-size: 18pt;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 h3 {
@@ -72,6 +72,20 @@ p {
     font-weight: 300;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    color: #505759;
+    font-size: 12pt;
+    font-weight: 300;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li::before {
+   content: "-   ";
+   text-indent: -5px;
 }
 
 
@@ -169,6 +183,7 @@ p {
 
  /* -------Footer Box-------- */
  .footer {
+    clear: both;
     width: 100%;
     padding: 10px;
     background-color: #D9E1E2;
