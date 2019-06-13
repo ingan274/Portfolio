@@ -31,9 +31,8 @@
     margin-bottom: 16px;
     padding: 10px;
     background: transparent;
-    border: none;
-    
-    border-bottom: 1px, #505759;
+    border: 0px;
+    border-bottom: 1.5px solid #505759;
 
 
     font-family: 'Montserrat', sans-serif;
