@@ -151,6 +151,10 @@ li {
     color: #003E51;
 }
 
+.menu:active{
+    color: #003241;
+}
+
 /* Content Title */
 #aboutheadtitle {
     clear: both;
