@@ -114,16 +114,6 @@ li {
 }
 
 /* Menu content */
-a {
-    width: 100%;
-    padding-right: 10px;
-    padding-left: 10px;
-    font-family: 'Montserrat', sans-serif;
-    color: white;
-    font-size: 10pt;
-    font-weight: 600;
-  
-}
 
 /* Logo */
 #logo {
@@ -138,12 +128,24 @@ a {
     margin-top: 30px;
 }
 
-.menu a {
+.menu {
     display: inline-block;
     list-style-type: none;
     padding: 10px;
     margin-right: 10px;
     margin-left: 10px;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 10pt;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a {
+    display: inline-block;
 }
 
 .menu:hover{

@@ -1,5 +1,5 @@
 /* Navigation */
-#contact:curent {
+.contact:current {
     color: #D9E1E2;
     text-decoration: underline;
 }
