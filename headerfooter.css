@@ -8,7 +8,7 @@
   /* ------OVERALL STYLING FONTS------ */
 
   /* H1 */
-  #aboutheadtitle {
+#aboutheadtitle {
     font-family: 'Titillium Web', sans-serif;
     color: #003E51;
     font-size: 55pt;
@@ -114,7 +114,7 @@ li {
 }
 
 /* Menu content */
-.nav a {
+a {
     width: 100%;
     padding-right: 10px;
     padding-left: 10px;
@@ -138,7 +138,7 @@ li {
     margin-top: 30px;
 }
 
-.menu{
+.menu a {
     display: inline-block;
     list-style-type: none;
     padding: 10px;
